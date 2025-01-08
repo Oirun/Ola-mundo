@@ -13,6 +13,11 @@
   --fonte-principal: 'Raleway', sans-serif;
   --fonte-secundaria: 'Playfair Display', sans-serif;
 
+
+  --rosa-principal: #FBA49A;
+
+  --amarelo-clarinho: #FFF8D8;
+
   font-family: var(--fonte-principal);
 }
 
@@ -23,9 +28,10 @@
   min-height: 100vh;
 }
 
-/* body{
-  background-color: #cee6fe;
-} */
+body{
+  background-color: var(--rosa-principal);
+  padding: 8px 8px;
+}
 
 a, button, input, textarea {
   font: inherit;

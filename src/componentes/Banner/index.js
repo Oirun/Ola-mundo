@@ -1,5 +1,5 @@
 import styles from "./Banner.module.css";
-import circuloColorido from "assets/circulo_colorido.svg";
+import circuloColorido from "assets/Rectangle 148.png";
 import minhaFoto from "assets/Programadora1.png";
 
 export default function Banner() {

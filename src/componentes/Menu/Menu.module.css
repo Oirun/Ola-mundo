@@ -1,12 +1,13 @@
 .head{
-    background-color: var(--azul-escuro);
-    background-image: url('../../assets/NavBar.png');
+    background-color: var(--amarelo-clarinho);
+    /* background-image: url('../../assets/NavBar.png'); */
     background-size: contain;
+    border-radius: 10px;
     z-index: 2;
 }
 
 .navegacao{
-    height: 72px;
+    height: 50px;
     display: flex;
     justify-content: center;
     align-items: center;

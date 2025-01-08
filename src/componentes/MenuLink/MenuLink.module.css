@@ -1,12 +1,13 @@
-.link{
+@import url('https://fonts.googleapis.com/css2?family=Orelega+One&display=swap');
+
+.link {
+    font-family: "Orelega One", serif;
+    font-weight: 400;
     font-size: 1.25rem;
     line-height: 1rem;
-    /* color: #1a659e; */
-    font-family: serif;
-    font-weight: 600;
-    padding: 0 0 25px 0;
+    color: #C4381D;
 }
 
-.linkDestacado{
+.linkDestacado {
     text-decoration: underline;
 }
